@@ -1,6 +1,9 @@
 ## Hi there 👋I'm Sada Ullah
 
-# 🚀 About Me
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cyber+Security+Enthusiast;Bug+Bounty+Hunter;Aspiring+Ethical+Hacker;Penetration+Tester)
+
+
+# About Me
 I'm a Cyber Security Enthusiast with a strong passion for ethical hacking, penetration testing, and digital defense. Currently pursuing my BS in Cyber Security at Riphah International University (Expected 2028), I actively explore network security, Linux, and web application testing to enhance my practical skills.
 
 
