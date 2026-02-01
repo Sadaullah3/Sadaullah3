@@ -15,7 +15,7 @@ FSC (ICS) (Computer Science) BISE Bannu (2020)
 Matric (General Science) BISEP (2020)
 
 
-Core Competencies
+## Core Competencies
 🔐 Penetration Testing & Bug Bounty Hunting
 🐧 Linux & Network Security
 🌐 Web Application Security Testing
@@ -25,7 +25,7 @@ Core Competencies
 🛡️ Web Exploitation
 
 
-Soft Skills
+## Soft Skills
 💬 Communication & Decision Making
 🤝 Complaint Handling & Contact Making
 ⚡ Work Under Pressure
