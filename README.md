@@ -1,7 +1,8 @@
 ## Hi there 👋I'm Sada Ullah
 
 <p align="center">
-  🔐 Cyber Security Student • Bug Bounty Learner • CTF Explorer
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadaullah3&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadaullah3&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 
