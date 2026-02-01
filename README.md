@@ -1,6 +1,6 @@
 ## Hi there 👋I'm Sada Ullah
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cyber+Security+Enthusiast;Bug+Bounty+Hunter;Aspiring+Ethical+Hacker;Penetration+Tester)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00E5FF&size=30&center=true&vCenter=true&width=800&lines=Cyber+Security+Enthusiast;Bug+Bounty+Learner;Web+Security+Student)
 
 
 # About Me
