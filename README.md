@@ -1,8 +1,10 @@
 ## Hi there 👋I'm Sada Ullah
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadaullah3&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadaullah3&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Security-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bug%20Bounty-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-7B1FA2?style=for-the-badge"/>
 </p>
 
 
