@@ -15,7 +15,7 @@ I'm a Cyber Security Enthusiast with a strong passion for ethical hacking, penet
 
 2. **FSC (ICS – Computer Science)**  
    BISE Bannu  
-   *(2020)*
+   *(2022)*
 
 3. **Matric (General Science)**  
    BISEP  
