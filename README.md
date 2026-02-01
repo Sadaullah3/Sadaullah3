@@ -1,6 +1,13 @@
 ## Hi there 👋I'm Sada Ullah
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0047FF&height=160&section=header&text=Welcome%20to%20my%20Cyber%20World&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+</p>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00E5FF&size=32&pause=1200&center=true&vCenter=true&width=950&lines=Cyber+Security+Enthusiast;Aspiring+Ethical+Hacker;Bug+Bounty+Hunter;Penetration+Tester;Web+Security+Student)
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web%20Security-00E5FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Bug%20Bounty-FF6F00?style=for-the-badge"/>
