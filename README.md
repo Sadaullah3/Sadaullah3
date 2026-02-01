@@ -1,10 +1,11 @@
 ## Hi there 👋I'm Sada Ullah
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AEFFF,100:0077FF&height=160&section=header&text=Welcome%20to%20my%20Cyber%20World&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00E5FF&size=32&pause=1200&center=true&vCenter=true&width=950&lines=Cyber+Security+Enthusiast;Aspiring+Ethical+Hacker;Bug+Bounty+Hunter;Penetration+Tester;Web+Security+Student)
+
 
 
 # About Me
