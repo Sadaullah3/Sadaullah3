@@ -14,6 +14,14 @@
   <img src="https://img.shields.io/badge/Penetration%20Testing-7B1FA2?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sadaullah3&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
+
+
+<p align="center">
+  <b>🎯 Focus:</b> Web Application Security • Linux • Bug Bounty • CTFs
+</p>
 
 
 
