@@ -1,9 +1,11 @@
-## Hi there 👋
+Hi there 👋 I'm Sada Ullah
 
 <!--
-**Sadaullah3/Sadaullah3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cyber+Security+Enthusiast;Bug+Bounty+Hunter;Aspiring+Ethical+Hacker;Penetration+Tester)
 
-Here are some ideas to get you started:
+
+🚀 About Me
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
