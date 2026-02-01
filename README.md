@@ -4,10 +4,31 @@
 
 
 
-# About Me
+## 🔐 About Me
 I'm a Cyber Security Enthusiast with a strong passion for ethical hacking, penetration testing, and digital defense. Currently pursuing my BS in Cyber Security at Riphah International University (Expected 2028), I actively explore network security, Linux, and web application testing to enhance my practical skills.
 
 
+## 🎓 Education & Qualifications
+
+BS in Cyber Security Riphah International University (Expected 2026)
+FSC (ICS) (Computer Science) BISE Bannu (2020)
+Matric (General Science) BISEP (2020)
+
+
+Core Competencies
+🔐 Penetration Testing & Bug Bounty Hunting
+🐧 Linux & Network Security
+🌐 Web Application Security Testing
+💻 Deep Learning in Coding & Programming
+🔍 Reverse Engineering
+🔓 Cryptography & Forensics
+🛡️ Web Exploitation
+
+
+Soft Skills
+💬 Communication & Decision Making
+🤝 Complaint Handling & Contact Making
+⚡ Work Under Pressure
 
 <!--
 **Sadaullah3/Sadaullah3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
