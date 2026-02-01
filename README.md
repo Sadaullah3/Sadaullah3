@@ -7,12 +7,19 @@
 ## 🔐 About Me
 I'm a Cyber Security Enthusiast with a strong passion for ethical hacking, penetration testing, and digital defense. Currently pursuing my BS in Cyber Security at Riphah International University (Expected 2028), I actively explore network security, Linux, and web application testing to enhance my practical skills.
 
-
 ## 🎓 Education & Qualifications
 
-BS in Cyber Security Riphah International University (Expected 2026)
-FSC (ICS) (Computer Science) BISE Bannu (2020)
-Matric (General Science) BISEP (2020)
+1. **BS in Cyber Security**  
+   Riphah International University  
+   *(Expected 2026)*
+
+2. **FSC (ICS – Computer Science)**  
+   BISE Bannu  
+   *(2020)*
+
+3. **Matric (General Science)**  
+   BISEP  
+   *(2020)*
 
 
 ## 🧠 Core Competencies
