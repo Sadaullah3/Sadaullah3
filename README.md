@@ -32,7 +32,6 @@ I'm a Cyber Security Enthusiast with a strong passion for ethical hacking, penet
 - 🔑 **Cryptography & Forensics**
 - 🛡️ **Web Exploitation**
 
---
 
 ## 🤝 Soft Skills
 
